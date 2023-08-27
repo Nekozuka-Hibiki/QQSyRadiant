@@ -2,7 +2,7 @@
   QQSyRadiant
 </h1>
 <p align="center">
-  酷安@水月澜花，This is a beginner's work, I hope it can help you.
+This is a beginner's work, I hope it can help you. 酷安@水月澜花
 <br />
     <a href="http://www.coolapk.com/u/2457301" target="blank"><strong>🌎 访问作者主页</strong></a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="https://t.me/SyRadiant" target="blank"><strong>💬 加入交流群</strong>
