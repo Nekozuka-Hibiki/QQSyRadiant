@@ -43,7 +43,7 @@ This is a beginner's work, I hope it can help you. 酷安@水月澜花
 
 - 禁止催更！！！
   
-更新版本8.9.80.12440.SyRadiant
+更新版本8.9.83.12605.SyRadiant
 
 SyRadiant 全量 PLUS 精简 LITE 净； 所有版本可互相覆盖
 
