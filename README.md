@@ -45,7 +45,7 @@ This is a beginner's work, I hope it can help you. 酷安@水月澜花
   
 更新版本8.9.80.12440.SyRadiant
 
-SyRadiant 全量 PLUS 精简 LITE 净 C4 救急 ； 所有版本可互相覆盖
+SyRadiant 全量 PLUS 精简 LITE 净； 所有版本可互相覆盖
 
 模块使用列表：QAuxiliary 置入于 SyRadiant PLUS
 
@@ -60,8 +60,6 @@ SyRadiant 全量 PLUS 精简 LITE 净 C4 救急 ； 所有版本可互相覆盖
   优化内容：缓存占用、冷启动、防更新
 
 - LITE：使用PLUS底包制作，特性与PLUS一致但没有模块附加影响和功能，具备最快的冷启动和最好的省电效率
-
-- C4：官方版本改签至SyRadiant，适用于紧急情况下的救急，当`QQSyRadiant` 发生未意料的BUG时覆盖使用，仅可覆盖不可单独使用
 
 PLUS的高速冷启动需要缓存帮助，初安装时冷启动可能缓慢至5S，正常使用一段时间后可降至1-2S，具体情况根据手机性能和系统而定；缓存至存储类非内存，清理后会失效，需重新编译
 
