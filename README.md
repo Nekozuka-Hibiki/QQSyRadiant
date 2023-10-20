@@ -4,9 +4,10 @@
 <p align="center">
 This is a beginner's work, I hope it can help you.
 <br />
-    <a href="http://www.coolapk.com/u/2457301" target="blank"><strong>🌎 访问作者主页</strong></a>&nbsp;&nbsp;|&nbsp;&nbsp;
-    <a href="https://t.me/SyRadiant" target="blank"><strong>💬 加入交流群</strong>
-  
+</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="https://t.me/SyRadiant" target="blank"><strong>💬 加入交流群</strong>
+</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+
   ---
 
 ## 基于本项目特殊性，请阅读该许可协议：
