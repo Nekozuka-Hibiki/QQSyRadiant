@@ -3,10 +3,8 @@
 </h1>
 <p align="center">
 This is a beginner's work, I hope it can help you.
-<br />
-</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-<a href="https://t.me/SyRadiant" target="blank"><strong>💬 加入交流群</strong>
-</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+
+  #### 加入交流群 ▷ [SyRadiant](https://t.me/SyRadiant)
 
   ---
 
