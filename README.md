@@ -42,7 +42,7 @@ This is a beginner's work, I hope it can help you.
 
 - 禁止催更！！！
   
-更新版本8.9.85.12820.SyRadiant
+#### Latest Release ▷ [NTv1.0](https://github.com/Nekozuka-Hibiki/QQSyRadiant/releases/tag/NTv1.0)
 
 SyRadiant 全量 PLUS 精简 LITE 净； 所有版本可互相覆盖
 
