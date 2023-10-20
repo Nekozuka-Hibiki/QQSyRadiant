@@ -2,7 +2,7 @@
   QQSyRadiant
 </h1>
 <p align="center">
-This is a beginner's work, I hope it can help you. 酷安@水月澜花
+This is a beginner's work, I hope it can help you.
 <br />
     <a href="http://www.coolapk.com/u/2457301" target="blank"><strong>🌎 访问作者主页</strong></a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="https://t.me/SyRadiant" target="blank"><strong>💬 加入交流群</strong>
@@ -31,7 +31,7 @@ This is a beginner's work, I hope it can help you. 酷安@水月澜花
 禁止二次修改、拆解内容重新打包发布传播
 禁止将软件用于违法用途及商业贩卖
 禁止国内平台的传播/含网盘分享
-改包盗包，NMSL，你母亲死了，为什么，因为你母亲没有教育你被我刀了
+改包盗包，@#￥%&*（亲切的问候）
 最终解释权归本作品作者所有
 ```
 -  **违反四禁止将严重损害项目权益并为项目带来重大危险** 如果四禁止被违反，那么作者不会也无法追究违反者的责任，也不会要求违反者删除其传播、修改、拆解、贩卖的内容；但作者为了保障自身安全及其权益和保障项目使用者的使用体验，将在可能的情况下 **永久暂停或关闭删除项目** 
@@ -43,7 +43,7 @@ This is a beginner's work, I hope it can help you. 酷安@水月澜花
 
 - 禁止催更！！！
   
-更新版本8.9.83.12605.SyRadiant
+更新版本8.9.85.12820.SyRadiant
 
 SyRadiant 全量 PLUS 精简 LITE 净； 所有版本可互相覆盖
 
