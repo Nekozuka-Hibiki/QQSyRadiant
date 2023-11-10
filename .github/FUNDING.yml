@@ -12,4 +12,4 @@ otechie: # Replace with a single Otechie username
 lfx_crowdfunding: # Replace with a single LFX Crowdfunding project-name e.g., cloud-foundry
 custom: # Replace with up to 4 custom sponsorship URLs e.g., ['link1', 'link2']
 custom: ["https://afdian.net/a/SyRadiant"]
-custom: ["https://ghproxy.com/https://raw.githubusercontent.com/Nekozuka-Hibiki/QQSyRadiant/main/file/Wallet.png"]
+custom: ["https://github.com/Nekozuka-Hibiki/QQSyRadiant/blob/main/file/Wallet.png"]
