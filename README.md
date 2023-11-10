@@ -46,7 +46,7 @@ This is a beginner's work, I hope it can help you.
 
 SyRadiant 全量 PLUS 精简 LITE 净； 所有版本可互相覆盖
 
-模块使用列表：QAuxiliary 置入于 SyRadiant PLUS
+模块使用列表：QAuxiliary TSBattery 置入于 SyRadiant PLUS
 
 - 全量：官方版本直接修改打入模块，当其他版本出现BUG或功能缺失时可以换用
 
