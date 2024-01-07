@@ -44,9 +44,9 @@ This is a beginner's work, I hope it can help you.
   
 #### Latest Release ▷ [NTv1.0](https://github.com/Nekozuka-Hibiki/QQSyRadiant/releases/tag/NTv1.0)
 
-SyRadiant 全量 PLUS 精简 LITE 净； 所有版本可互相覆盖
+所有版本可互相覆盖
 
-模块使用列表：QAuxiliary TSBattery 置入于 SyRadiant PLUS
+模块使用列表：QAuxiliary TSBattery 除Lite外均内置
 
 - 全量：官方版本直接修改打入模块，当其他版本出现BUG或功能缺失时可以换用
 
@@ -60,11 +60,15 @@ SyRadiant 全量 PLUS 精简 LITE 净； 所有版本可互相覆盖
 
 - LITE：使用PLUS底包制作，特性与PLUS一致但没有模块附加影响和功能，具备最快的冷启动和最好的省电效率
 
+- UE：被小白所困扰而额外增加的版本，仅去除UE相关原生库、资源、代码；相较于全量无优化仅做安装包体积心理安慰，好处是可以欺骗自己这个版本得到了优化会更省电等等等（相对于全量来说，但其实它们是一样的）（为什么我要在这里写这个？因为小白压根不看README!!!）
+
 PLUS的高速冷启动需要缓存帮助，初安装时冷启动可能缓慢至5S，正常使用一段时间后可降至1-2S，具体情况根据手机性能和系统而定；缓存至存储类非内存，清理后会失效，需重新编译
 
 - `QQSyRadiant`项目个人维护，精力有限，更多内容可自行探索，有问题建议先尝试自行解决
 
 项目所有安装包皆通过了华米OV四家手机厂商杀毒，额外经过Windows安全中心、腾讯、360、火绒、卡巴斯基杀毒，报告皆为安全；如果你报毒了，建议相信安全软件
+
+有部分用户质疑`QQSyRadiant`为什么BUG那么多是不是不打算让人好好用，请明确这是个自用作品！并非是出于商业用途、盈利用途而专门制作的，如果有BUG而`QQSyRadiant`长期未修复，说明该BUG并不影响`Nekozuka-Hibiki`的使用
 
 </details>
 
